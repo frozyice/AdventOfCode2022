@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 using AdventOfCode2022;
 
-var day = new Day06();
+var day = new Day07();
 var stopwatch = new Stopwatch();
 
 Console.WriteLine("Part One");
