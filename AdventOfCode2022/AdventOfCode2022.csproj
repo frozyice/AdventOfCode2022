@@ -12,4 +12,8 @@
       <None Remove="Day01\input.txt" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="FluentAssertions" Version="6.8.0" />
+    </ItemGroup>
+
 </Project>

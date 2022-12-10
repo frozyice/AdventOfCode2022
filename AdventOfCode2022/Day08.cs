@@ -2,6 +2,7 @@
 
 public class Day08
 {
+    // 3h
     public int PartOne()
     {
         var grid = GetInput();
